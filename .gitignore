@@ -1,0 +1,7 @@
+#PROJECT FILE
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+
+#editor
+~*
